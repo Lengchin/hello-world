@@ -1,4 +1,4 @@
 # hello-world
-Repository A
-Hello world, 
+Hi,
+
 Lengchin here.I love cycling and running.
